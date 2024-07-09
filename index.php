@@ -10,8 +10,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to Our Landing Page</h1>
-        <p>Subscribe to our newsletter for the latest updates.</p>
+        <h1>Welcome Julio's CI/CD</h1>
+        <p>Assine nosso boletim informativo para obter as últimas atualizações</p>
         <form action="index.php" method="post">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
